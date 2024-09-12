@@ -1,2 +1,1 @@
-# code_videos
-Code for any videos
+# Diffusion Model from Scratch
